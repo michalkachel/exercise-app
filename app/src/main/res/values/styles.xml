@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="DialogTitleStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/abc_dialog_padding_material</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/blue_dark</item>
+        <item name="android:textSize">@dimen/abc_text_size_title_material</item>
+    </style>
+
+    <style name="DialogMessageStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/blue_dark</item>
+        <item name="android:paddingBottom">@dimen/abc_dialog_padding_material</item>
+        <item name="android:paddingLeft">@dimen/abc_dialog_padding_material</item>
+        <item name="android:paddingRight">@dimen/abc_dialog_padding_material</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+</resources>
