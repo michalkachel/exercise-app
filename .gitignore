@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 /local.properties
 /.idea/workspace.xml
@@ -6,6 +7,8 @@
 /build
 /captures
 
+=======
+>>>>>>> 7abd940643294064bd4b3481901342fc7e5fdaeb
 # Built application files
 *.apk
 *.ap_
